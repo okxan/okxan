@@ -4,7 +4,7 @@
 
 
 ### python dev
-<img style="vertical-align:baseline;" src="https://i.imgur.com/Uz8A9gH.png" width="100">
+<img style="vertical-align:baseline;" src="https://i.imgur.com/Uz8A9gH.png" width="110">
 
 
 # contacts

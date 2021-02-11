@@ -1,7 +1,7 @@
 # hello :)
 
 ### github stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=okxan&show_icons=true&theme=dracula) <img style="vertical-align:baseline;"src="https://i.imgur.com/Uz8A9gH.png" width="150">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=okxan&show_icons=true&theme=dracula)<img style="vertical-align:baseline;"src="https://i.imgur.com/Uz8A9gH.png" width="150">
 
 
 # contacts

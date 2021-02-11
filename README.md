@@ -12,3 +12,6 @@
 
 ### @darkest, @7xan
 
+<img src="https://i.imgur.com/pztfi19.png" width="30">
+
+### xanny#7777

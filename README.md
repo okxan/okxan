@@ -7,6 +7,6 @@
 <img src="https://i.imgur.com/Uz8A9gH.png" width="150">
 
 # contacts
-### <img src="https://i.imgur.com/ySFh4zD.png" width="30">  <br>@darkest, @7xan
-### <img src="https://i.imgur.com/pztfi19.png" width="30">  <br>xanny#7777
-### <img src="https://i.imgur.com/PzNGn1b.png" width="30">  <br>@claimin
+### <img src="https://i.imgur.com/ySFh4zD.png" width="40">  <br>@darkest, @7xan
+### <img src="https://i.imgur.com/pztfi19.png" width="40">  <br>xanny#7777
+### <img src="https://i.imgur.com/PzNGn1b.png" width="40">  <br>@claimin

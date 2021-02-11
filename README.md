@@ -4,4 +4,4 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=okxan&show_icons=true&theme=dracula)
 
 ### Python developer
-[![test](https://i.imgur.com/Uz8A9gH.png)]
+![python](https://i.imgur.com/Uz8A9gH.png)

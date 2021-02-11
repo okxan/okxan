@@ -7,5 +7,5 @@
 <img src="https://i.imgur.com/Uz8A9gH.png" width="200">
 
 ### contacts
-<img src="https://i.imgur.com/ySFh4zD.png" width="15"> ### darkest
-<img src="https://i.imgur.com/ySFh4zD.png" width="15"> ### 7xan
+### <img src="https://i.imgur.com/ySFh4zD.png" width="15"> darkest <br>
+### <img src="https://i.imgur.com/ySFh4zD.png" width="15"> 7xan

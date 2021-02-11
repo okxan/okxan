@@ -8,6 +8,6 @@
 
 ### contacts
 <img src="https://i.imgur.com/ySFh4zD.png" width="30">
-<a href="https://www.instagram.com/darkest/">@darkest</a>
-@7xan
+<a href="https://www.instagram.com/darkest/"><b>@darkest</b></a>
+<a href="https://www.instagram.com/7xan/"><b>@7xans</b></a>
 

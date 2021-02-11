@@ -8,10 +8,6 @@
 
 ### contacts
 
-<img src="https://i.imgur.com/ySFh4zD.png" width="30">
+### <img src="https://i.imgur.com/ySFh4zD.png" width="30">  @darkest, @7xan
 
-### @darkest, @7xan
-
-<img src="https://i.imgur.com/pztfi19.png" width="30">
-
-### xanny#7777
+### <img src="https://i.imgur.com/pztfi19.png" width="30">  xanny#7777
